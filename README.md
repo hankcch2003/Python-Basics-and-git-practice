@@ -31,7 +31,6 @@
 | `.python-version` | 記錄專案使用的 Python 版本 |
 | `pyproject.toml` | uv 用來管理專案設定與套件的檔案 |
 | `uv.lock` | 鎖定套件版本的檔案，確保環境一致 |
-| `README.md` | 專案說明文件 |
 
 📌 附註：  
 - `day4 資料夾` 內為進階容器應用 (Dictionary、Set、Tuple) 與流程控制進階的練習檔案。
